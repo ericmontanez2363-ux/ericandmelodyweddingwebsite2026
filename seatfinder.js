@@ -1,0 +1,1 @@
+deleteGuest(0)
